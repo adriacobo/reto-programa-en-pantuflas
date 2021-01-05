@@ -23,7 +23,22 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 ---
 
+**Fecha**: 04/01/2021
 
+**Humor**: 😐
+
+**Hitos conseguidos**:
+
+*   Implantar Zoho Books en la empresa
+*   Acabado el upgrade de PrestaShop y actualizado a tope
+*   Hacer funcionar MAMP PRO (problema con idle en el Apache)
+
+**Próximos hitos**
+
+*   Maquetar el PrestaShop
+*   Entregar formación para una plataforma
+
+---
 
 
 ## **Badges**
