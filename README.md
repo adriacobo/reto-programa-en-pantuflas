@@ -100,9 +100,41 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 *   Editar 8 lecciones
 *   Hacer que salgan bien las facturas de Zoho
 
+---
+
+**Fecha**: 22/01/2021
+
+**Humor**: 😐
+
+**Hitos conseguidos**:
+
+*   Hecha presentación para los malandriners
+*   Primera semana con Zoho Projects + CRM
+
+**Próximos hitos**
+
+*   Acabar el puto curso
+*   Gestionar proyecto gordo con una super marca y una mega agencia (que miedo!)
 
 ---
 
+**Fecha**: 29/01/2021
+
+**Humor**: 😐
+
+**Hitos conseguidos**:
+
+*   Curso presentado
+*   3 migraciones a servidores nuestros
+*   Sistema de alta de usuarios empresa con RE en WooCommerce
+
+**Próximos hitos**
+
+*   Acabar un copy que queda del curso
+*   Conseguir un curro en Codeable
+*   Publicar cada viernes en este fichero
+
+---
 
 ## **Badges**
 
